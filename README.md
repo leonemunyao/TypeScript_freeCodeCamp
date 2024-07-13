@@ -1,0 +1,1 @@
+# TypeScript is a superset of JavaScript, adding static types to the language.
